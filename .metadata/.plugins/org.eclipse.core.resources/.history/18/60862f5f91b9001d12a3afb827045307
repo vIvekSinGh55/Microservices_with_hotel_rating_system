@@ -1,0 +1,5 @@
+package com.pcc.rating.entities;
+
+public class Rating {
+
+}

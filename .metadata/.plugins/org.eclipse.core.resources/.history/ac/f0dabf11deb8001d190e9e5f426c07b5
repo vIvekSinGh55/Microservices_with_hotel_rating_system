@@ -1,0 +1,43 @@
+package com.pcc.user.entities;
+class A 
+{
+    static 
+    {
+        System.out.println("A");
+    }
+    public static void nikhil()
+    {
+        System.out.println("A");
+    }
+}
+class Prac extends A 
+{
+    static int i =10;
+    public static void nikhil()
+    {
+        System.out.println("HelloWorld");
+    }
+    static 
+    {
+        System.out.println(i);
+    }
+    public static void main(String[] args)
+    {
+        A h = new Prac();
+        h.nikhil();
+        System.out.println("Hello, World!"+i);
+    }
+}
+//A
+//A
+//HelloWorld
+//10
+//HelloWorld
+//HelloWorl0
+
+
+
+//A
+//10
+//A
+//HelloWorld10

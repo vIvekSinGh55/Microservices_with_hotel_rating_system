@@ -1,0 +1,5 @@
+package com.pcc.rating.service;
+
+public interface RatingService {
+
+}
