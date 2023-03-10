@@ -1,0 +1,10 @@
+server:
+  port: 8083
+  
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://vfire:vfire@cluster0.kghip.mongodb.net/Microservices?retryWrites=true&w=majority
+      
+  application:
+    name: RATING-SERVICE

@@ -1,0 +1,5 @@
+package com.pcc.user.external.services;
+
+public interface HotelService {
+
+}
