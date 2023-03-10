@@ -13,3 +13,7 @@ public interface HotelService {
 	Hotel getHotel(@PathVariable("hotelId") String hotelId);
 
 }
+
+
+// Feign client same as restTemplate to call the http request but major change is that there is 
+// declarative syntax where we use some annotation to call service as well as create the interface init.

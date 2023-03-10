@@ -54,7 +54,8 @@ public class UserServiceImpl implements UserService
 			List<Rating> ratings = Arrays.stream(ratingList).toList();
 	
 			List<Rating> ratingOfHotel = ratings.stream().map(rating ->{
-				Hotel hotel = restTemplate.getForObject("http://HOTEL-SERVICE/hotels/"+rating.getHotelId(), Hotel.class);// api call to hotel service to get the hotel
+//				Hotel hotel = restTemplate.getForObject("http://HOTEL-SERVICE/hotels/"+rating.getHotelId(), Hotel.class);// api call to hotel service to get the hotel
+				Hotel hotel = this.hotelService.getHotel(rating.getHotelId());
 				rating.setHotel(hotel);                  //set the hotel to rating
 				return rating;                          // return the rating
 			}).collect(Collectors.toList());

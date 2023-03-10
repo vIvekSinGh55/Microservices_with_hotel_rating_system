@@ -1,7 +1,0 @@
-package com.pcc.rating.service.impl;
-
-import com.pcc.rating.service.RatingService;
-
-public class RatingServiceImpl implements RatingService {
-
-}

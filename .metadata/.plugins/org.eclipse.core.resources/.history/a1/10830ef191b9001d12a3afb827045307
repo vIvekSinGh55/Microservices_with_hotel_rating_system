@@ -1,5 +1,0 @@
-package com.pcc.rating.repository;
-
-public interface RatingRepository {
-
-}

@@ -38,7 +38,7 @@ public class UserController
 		
 	}
 	
-	@GetMapping("/")
+	@GetMapping("")
 	public ResponseEntity<List<User>> getAllUser()
 	{
 		List<User> allUser = userService.getAllUser();
