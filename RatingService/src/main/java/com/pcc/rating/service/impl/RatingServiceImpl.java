@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.pcc.rating.entities.Rating;
+import com.pcc.rating.exceptions.ResourceNotFoundException;
 import com.pcc.rating.repository.RatingRepository;
 import com.pcc.rating.service.RatingService;
 
@@ -34,14 +35,26 @@ public class RatingServiceImpl implements RatingService {
 	@Override
 	public List<Rating> getRatingByUserId(String userId) 
 	{
-		return this.ratingRepository.findByUserId(userId);
+		List<Rating> ratingsOfUsers = this.ratingRepository.findByUserId(userId);
+		if(ratingsOfUsers.isEmpty())
+		{
+			throw new ResourceNotFoundException("user with given id not found !!" + userId);
+		}
+		return ratingsOfUsers;
 	}
 
 	
 	@Override
 	public List<Rating> getRatingByHotelId(String hotelId) 
 	{
-		return this.ratingRepository.findByHotelId(hotelId);
+		List<Rating> ratingsOfHotels = this.ratingRepository.findByHotelId(hotelId);
+		if(ratingsOfHotels.isEmpty())
+		{
+			throw new ResourceNotFoundException("hotel with given id not found !!" + hotelId);
+		}
+		
+		return ratingsOfHotels;
+		
 	}
 
 	
