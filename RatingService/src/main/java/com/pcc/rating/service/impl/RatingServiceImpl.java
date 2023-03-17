@@ -33,13 +33,10 @@ public class RatingServiceImpl implements RatingService {
 
 	
 	@Override
-	public List<Rating> getRatingByUserId(String userId) 
+	public List<Rating> getRatingByUserId(String userId) throws ResourceNotFoundException
 	{
 		List<Rating> ratingsOfUsers = this.ratingRepository.findByUserId(userId);
-		if(ratingsOfUsers.isEmpty())
-		{
-			throw new ResourceNotFoundException("user with given id not found !!" + userId);
-		}
+	
 		return ratingsOfUsers;
 	}
 
@@ -48,10 +45,10 @@ public class RatingServiceImpl implements RatingService {
 	public List<Rating> getRatingByHotelId(String hotelId) 
 	{
 		List<Rating> ratingsOfHotels = this.ratingRepository.findByHotelId(hotelId);
-		if(ratingsOfHotels.isEmpty())
-		{
-			throw new ResourceNotFoundException("hotel with given id not found !!" + hotelId);
-		}
+//		if(ratingsOfHotels.isEmpty())
+//		{
+//			throw new ResourceNotFoundException("hotel with given id not found !!" + hotelId);
+//		}
 		
 		return ratingsOfHotels;
 		
