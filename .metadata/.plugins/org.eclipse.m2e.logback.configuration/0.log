@@ -5361,3 +5361,579 @@ Caused by: java.lang.Exception: File not found: C:\Users\VSING116\Documents\Prac
 2023-03-23 19:48:49,376 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-23 19:48:49,376 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2023-03-23 19:48:49,376 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-24 09:59:00,553 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-24 16:41:21,438 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-25 20:54:08,978 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-25 21:10:17,971 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:10:17,974 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:10:17,979 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-25 21:10:18,016 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-25 21:10:18,023 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:10:18,023 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:10:18,023 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\ApiGateway\src\test\resources
+2023-03-25 21:10:20,880 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:10:20,881 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:10:20,882 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-25 21:10:20,888 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-25 21:10:20,895 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:10:20,895 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:10:20,896 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\ConfigServer\src\test\resources
+2023-03-25 21:10:23,975 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:10:23,975 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:10:23,977 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-25 21:10:23,993 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-25 21:10:24,002 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:10:24,002 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:10:24,002 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\HotelService\src\test\resources
+2023-03-25 21:10:27,552 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-25 21:10:27,622 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-25 21:10:27,633 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-25 21:10:31,006 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-25 21:10:31,026 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-25 21:10:31,039 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\ServiceRegistry\src\test\resources
+2023-03-25 21:10:35,332 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:10:35,338 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:10:35,340 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-25 21:10:35,361 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-25 21:10:35,382 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:10:35,383 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:10:35,384 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-25 21:18:39,003 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:18:39,004 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:18:39,012 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-25 21:18:39,044 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-25 21:18:39,056 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:18:39,057 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:18:39,057 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-25 21:19:36,287 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:19:36,287 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:19:36,290 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-25 21:19:36,362 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-25 21:19:36,374 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 21:19:36,375 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 21:19:36,376 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-25 22:34:36,851 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 22:34:36,851 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 22:34:36,869 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-25 22:34:36,936 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-25 22:34:36,952 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-25 22:34:36,952 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-25 22:34:36,952 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 09:46:18,290 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-27 09:56:54,597 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 09:56:54,600 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 09:56:54,605 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 09:56:54,645 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 09:56:54,651 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 09:56:54,652 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 09:56:54,652 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:03:23,965 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:03:23,966 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:03:23,970 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:03:24,001 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:03:24,011 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:03:24,011 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:03:24,011 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:06:15,271 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:06:15,272 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:06:15,274 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:06:15,297 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:06:15,302 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:06:15,302 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:06:15,302 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:06:39,599 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:06:39,600 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:06:39,601 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:06:39,609 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:06:39,611 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:06:39,611 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:06:39,612 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:13:51,538 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:13:51,539 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:13:51,541 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:13:51,552 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:13:51,555 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:13:51,555 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:13:51,555 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:14:32,806 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:14:32,807 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:14:32,808 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:14:32,820 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:14:32,823 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:14:32,824 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:14:32,824 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:22:48,304 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:22:48,304 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:22:48,305 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:22:48,313 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:22:48,316 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:22:48,317 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:22:48,317 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:23:23,834 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:23:23,834 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:23:23,835 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:23:23,846 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:23:23,851 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:23:23,851 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:23:23,852 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:23:56,033 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:23:56,033 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:23:56,034 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:23:56,047 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:23:56,051 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:23:56,051 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:23:56,052 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:36:02,524 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:36:02,524 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:36:02,525 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:36:02,542 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:36:02,545 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:36:02,545 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:36:02,545 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:37:32,581 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:37:32,581 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:37:32,582 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:37:32,593 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:37:32,597 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:37:32,597 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:37:32,597 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:38:07,376 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:38:07,376 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:38:07,377 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:38:07,384 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:38:07,386 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:38:07,386 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:38:07,386 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:42:38,222 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pcc.rating:RatingService:0.0.1-SNAPSHOT @ C:\Users\VSING116\Documents\Practice_CC\RatingService\pom.xml.
+2023-03-27 10:42:40,130 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-security/3.0.3/spring-boot-starter-security-3.0.3.pom
+2023-03-27 10:42:40,223 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.3/spring-boot-starter-security-3.0.3.pom
+2023-03-27 10:42:40,245 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.3/spring-boot-starter-security-3.0.3.pom
+2023-03-27 10:42:40,563 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-config/6.0.2/spring-security-config-6.0.2.pom
+2023-03-27 10:42:40,577 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.2/spring-security-config-6.0.2.pom
+2023-03-27 10:42:40,594 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.2/spring-security-config-6.0.2.pom
+2023-03-27 10:42:40,869 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-core/6.0.2/spring-security-core-6.0.2.pom
+2023-03-27 10:42:40,880 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.2/spring-security-core-6.0.2.pom
+2023-03-27 10:42:40,896 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.2/spring-security-core-6.0.2.pom
+2023-03-27 10:42:41,170 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-web/6.0.2/spring-security-web-6.0.2.pom
+2023-03-27 10:42:41,180 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.2/spring-security-web-6.0.2.pom
+2023-03-27 10:42:41,193 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.2/spring-security-web-6.0.2.pom
+2023-03-27 10:42:41,484 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/spring/okta-spring-boot-starter/3.0.3/okta-spring-boot-starter-3.0.3.pom
+2023-03-27 10:42:41,494 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-boot-starter/3.0.3/okta-spring-boot-starter-3.0.3.pom
+2023-03-27 10:42:41,510 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-boot-starter/3.0.3/okta-spring-boot-starter-3.0.3.pom
+2023-03-27 10:42:41,895 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/spring/okta-spring-boot-parent/3.0.3/okta-spring-boot-parent-3.0.3.pom
+2023-03-27 10:42:41,906 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-boot-parent/3.0.3/okta-spring-boot-parent-3.0.3.pom
+2023-03-27 10:42:41,922 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-boot-parent/3.0.3/okta-spring-boot-parent-3.0.3.pom
+2023-03-27 10:42:42,303 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/okta-parent/28/okta-parent-28.pom
+2023-03-27 10:42:42,313 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/okta-parent/28/okta-parent-28.pom
+2023-03-27 10:42:42,326 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/okta-parent/28/okta-parent-28.pom
+2023-03-27 10:42:42,611 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/okta-aggregator/28/okta-aggregator-28.pom
+2023-03-27 10:42:42,621 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/okta-aggregator/28/okta-aggregator-28.pom
+2023-03-27 10:42:42,636 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/okta-aggregator/28/okta-aggregator-28.pom
+2023-03-27 10:42:43,020 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/rest-assured/rest-assured-bom/5.3.0/rest-assured-bom-5.3.0.pom
+2023-03-27 10:42:43,029 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rest-assured/rest-assured-bom/5.3.0/rest-assured-bom-5.3.0.pom
+2023-03-27 10:42:43,039 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rest-assured/rest-assured-bom/5.3.0/rest-assured-bom-5.3.0.pom
+2023-03-27 10:42:43,328 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/spring/okta-spring-security-oauth2/3.0.3/okta-spring-security-oauth2-3.0.3.pom
+2023-03-27 10:42:43,338 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-security-oauth2/3.0.3/okta-spring-security-oauth2-3.0.3.pom
+2023-03-27 10:42:43,350 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-security-oauth2/3.0.3/okta-spring-security-oauth2-3.0.3.pom
+2023-03-27 10:42:43,629 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/commons/okta-config-check/1.3.3/okta-config-check-1.3.3.pom
+2023-03-27 10:42:43,638 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/commons/okta-config-check/1.3.3/okta-config-check-1.3.3.pom
+2023-03-27 10:42:43,648 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/commons/okta-config-check/1.3.3/okta-config-check-1.3.3.pom
+2023-03-27 10:42:43,943 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/commons/okta-commons-root/1.3.3/okta-commons-root-1.3.3.pom
+2023-03-27 10:42:43,960 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/commons/okta-commons-root/1.3.3/okta-commons-root-1.3.3.pom
+2023-03-27 10:42:43,973 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/commons/okta-commons-root/1.3.3/okta-commons-root-1.3.3.pom
+2023-03-27 10:42:44,248 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/okta-parent/27/okta-parent-27.pom
+2023-03-27 10:42:44,275 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/okta-parent/27/okta-parent-27.pom
+2023-03-27 10:42:44,288 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/okta-parent/27/okta-parent-27.pom
+2023-03-27 10:42:44,659 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/okta-aggregator/27/okta-aggregator-27.pom
+2023-03-27 10:42:44,669 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/okta-aggregator/27/okta-aggregator-27.pom
+2023-03-27 10:42:44,682 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/okta-aggregator/27/okta-aggregator-27.pom
+2023-03-27 10:42:44,966 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/commons/okta-commons-lang/1.3.3/okta-commons-lang-1.3.3.pom
+2023-03-27 10:42:44,976 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/commons/okta-commons-lang/1.3.3/okta-commons-lang-1.3.3.pom
+2023-03-27 10:42:44,988 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/commons/okta-commons-lang/1.3.3/okta-commons-lang-1.3.3.pom
+2023-03-27 10:42:45,274 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-client/6.0.2/spring-security-oauth2-client-6.0.2.pom
+2023-03-27 10:42:45,285 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-client/6.0.2/spring-security-oauth2-client-6.0.2.pom
+2023-03-27 10:42:45,298 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-client/6.0.2/spring-security-oauth2-client-6.0.2.pom
+2023-03-27 10:42:45,683 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-core/6.0.2/spring-security-oauth2-core-6.0.2.pom
+2023-03-27 10:42:45,690 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.0.2/spring-security-oauth2-core-6.0.2.pom
+2023-03-27 10:42:45,700 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.0.2/spring-security-oauth2-core-6.0.2.pom
+2023-03-27 10:42:45,977 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/nimbusds/oauth2-oidc-sdk/9.43.1/oauth2-oidc-sdk-9.43.1.pom
+2023-03-27 10:42:45,989 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/nimbusds/oauth2-oidc-sdk/9.43.1/oauth2-oidc-sdk-9.43.1.pom
+2023-03-27 10:42:46,004 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/nimbusds/oauth2-oidc-sdk/9.43.1/oauth2-oidc-sdk-9.43.1.pom
+2023-03-27 10:42:46,287 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-jose/6.0.2/spring-security-oauth2-jose-6.0.2.pom
+2023-03-27 10:42:46,296 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.0.2/spring-security-oauth2-jose-6.0.2.pom
+2023-03-27 10:42:46,311 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.0.2/spring-security-oauth2-jose-6.0.2.pom
+2023-03-27 10:42:46,587 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-resource-server/6.0.2/spring-security-oauth2-resource-server-6.0.2.pom
+2023-03-27 10:42:46,596 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.2/spring-security-oauth2-resource-server-6.0.2.pom
+2023-03-27 10:42:46,606 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.2/spring-security-oauth2-resource-server-6.0.2.pom
+2023-03-27 10:42:46,911 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/spring/okta-spring-sdk/3.0.3/okta-spring-sdk-3.0.3.pom
+2023-03-27 10:42:46,918 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-sdk/3.0.3/okta-spring-sdk-3.0.3.pom
+2023-03-27 10:42:46,927 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-sdk/3.0.3/okta-spring-sdk-3.0.3.pom
+2023-03-27 10:42:47,204 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-test/6.0.2/spring-security-test-6.0.2.pom
+2023-03-27 10:42:47,218 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.2/spring-security-test-6.0.2.pom
+2023-03-27 10:42:47,231 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.2/spring-security-test-6.0.2.pom
+2023-03-27 10:42:47,629 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-security/3.0.3/spring-boot-starter-security-3.0.3.jar
+2023-03-27 10:42:47,937 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/commons/okta-config-check/1.3.3/okta-config-check-1.3.3.jar
+2023-03-27 10:42:48,243 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/commons/okta-commons-lang/1.3.3/okta-commons-lang-1.3.3.jar
+2023-03-27 10:42:48,550 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/spring/okta-spring-boot-starter/3.0.3/okta-spring-boot-starter-3.0.3.jar
+2023-03-27 10:42:48,550 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-client/6.0.2/spring-security-oauth2-client-6.0.2.jar
+2023-03-27 10:42:48,858 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/nimbusds/oauth2-oidc-sdk/9.43.1/oauth2-oidc-sdk-9.43.1.jar
+2023-03-27 10:42:48,858 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-web/6.0.2/spring-security-web-6.0.2.jar
+2023-03-27 10:42:48,858 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-core/6.0.2/spring-security-oauth2-core-6.0.2.jar
+2023-03-27 10:42:48,858 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/spring/okta-spring-security-oauth2/3.0.3/okta-spring-security-oauth2-3.0.3.jar
+2023-03-27 10:42:48,858 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-config/6.0.2/spring-security-config-6.0.2.jar
+2023-03-27 10:42:49,166 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-jose/6.0.2/spring-security-oauth2-jose-6.0.2.jar
+2023-03-27 10:42:49,166 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-test/6.0.2/spring-security-test-6.0.2.jar
+2023-03-27 10:42:49,166 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/nimbusds/nimbus-jose-jwt/9.24.4/nimbus-jose-jwt-9.24.4.jar
+2023-03-27 10:42:49,166 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-resource-server/6.0.2/spring-security-oauth2-resource-server-6.0.2.jar
+2023-03-27 10:42:49,166 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/spring/okta-spring-sdk/3.0.3/okta-spring-sdk-3.0.3.jar
+2023-03-27 10:42:49,472 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-core/6.0.2/spring-security-core-6.0.2.jar
+2023-03-27 10:42:49,499 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.3/spring-boot-starter-security-3.0.3.jar
+2023-03-27 10:42:49,503 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.2/spring-security-config-6.0.2.jar
+2023-03-27 10:42:49,511 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-boot-starter/3.0.3/okta-spring-boot-starter-3.0.3.jar
+2023-03-27 10:42:49,511 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-security-oauth2/3.0.3/okta-spring-security-oauth2-3.0.3.jar
+2023-03-27 10:42:49,511 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.2/spring-security-web-6.0.2.jar
+2023-03-27 10:42:49,534 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.3/spring-boot-starter-security-3.0.3.jar
+2023-03-27 10:42:49,565 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-boot-starter/3.0.3/okta-spring-boot-starter-3.0.3.jar
+2023-03-27 10:42:49,571 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-security-oauth2/3.0.3/okta-spring-security-oauth2-3.0.3.jar
+2023-03-27 10:42:49,584 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/commons/okta-config-check/1.3.3/okta-config-check-1.3.3.jar
+2023-03-27 10:42:49,597 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/commons/okta-commons-lang/1.3.3/okta-commons-lang-1.3.3.jar
+2023-03-27 10:42:49,598 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-client/6.0.2/spring-security-oauth2-client-6.0.2.jar
+2023-03-27 10:42:49,611 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.2/spring-security-web-6.0.2.jar
+2023-03-27 10:42:49,628 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.0.2/spring-security-oauth2-core-6.0.2.jar
+2023-03-27 10:42:49,629 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.2/spring-security-config-6.0.2.jar
+2023-03-27 10:42:49,629 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/commons/okta-config-check/1.3.3/okta-config-check-1.3.3.jar
+2023-03-27 10:42:49,629 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/commons/okta-commons-lang/1.3.3/okta-commons-lang-1.3.3.jar
+2023-03-27 10:42:49,635 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/nimbusds/nimbus-jose-jwt/9.24.4/nimbus-jose-jwt-9.24.4.jar
+2023-03-27 10:42:49,679 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.0.2/spring-security-oauth2-jose-6.0.2.jar
+2023-03-27 10:42:49,681 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-client/6.0.2/spring-security-oauth2-client-6.0.2.jar
+2023-03-27 10:42:49,692 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/nimbusds/oauth2-oidc-sdk/9.43.1/oauth2-oidc-sdk-9.43.1.jar
+2023-03-27 10:42:49,738 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.0.2/spring-security-oauth2-core-6.0.2.jar
+2023-03-27 10:42:49,761 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.2/spring-security-oauth2-resource-server-6.0.2.jar
+2023-03-27 10:42:49,768 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-sdk/3.0.3/okta-spring-sdk-3.0.3.jar
+2023-03-27 10:42:49,771 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/nimbusds/nimbus-jose-jwt/9.24.4/nimbus-jose-jwt-9.24.4.jar
+2023-03-27 10:42:49,771 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.0.2/spring-security-oauth2-jose-6.0.2.jar
+2023-03-27 10:42:49,774 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/nimbusds/oauth2-oidc-sdk/9.43.1/oauth2-oidc-sdk-9.43.1.jar
+2023-03-27 10:42:49,777 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.2/spring-security-oauth2-resource-server-6.0.2.jar
+2023-03-27 10:42:49,781 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.2/spring-security-test-6.0.2.jar
+2023-03-27 10:42:49,781 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.2/spring-security-core-6.0.2.jar
+2023-03-27 10:42:49,822 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.2/spring-security-test-6.0.2.jar
+2023-03-27 10:42:49,822 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-sdk/3.0.3/okta-spring-sdk-3.0.3.jar
+2023-03-27 10:42:49,832 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.2/spring-security-core-6.0.2.jar
+2023-03-27 10:42:49,998 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pcc.registry:ServiceRegistry:0.0.1-SNAPSHOT @ C:\Users\VSING116\Documents\Practice_CC\ServiceRegistry\pom.xml.
+2023-03-27 10:42:50,319 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pcc.hotel:HotelService:0.0.1-SNAPSHOT @ C:\Users\VSING116\Documents\Practice_CC\HotelService\pom.xml.
+2023-03-27 10:42:50,795 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pcc.gateway:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\VSING116\Documents\Practice_CC\ApiGateway\pom.xml.
+2023-03-27 10:42:51,266 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pcc.config.server:ConfigServer:0.0.1-SNAPSHOT @ C:\Users\VSING116\Documents\Practice_CC\ConfigServer\pom.xml.
+2023-03-27 10:42:51,492 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pcc.user:UserService:0.0.1-SNAPSHOT @ C:\Users\VSING116\Documents\Practice_CC\UserService\pom.xml.
+2023-03-27 10:42:53,980 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 10:42:53,990 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 10:42:53,993 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 10:42:54,670 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-27 10:42:54,845 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pcc.rating:RatingService:0.0.1-SNAPSHOT @ C:\Users\VSING116\Documents\Practice_CC\RatingService\pom.xml.
+2023-03-27 10:42:55,625 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RatingService/src/main/java
+2023-03-27 10:42:55,626 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RatingService/src/main/resources
+2023-03-27 10:42:55,626 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RatingService/src/main/resources
+2023-03-27 10:42:55,627 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RatingService/src/test/java
+2023-03-27 10:42:55,729 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-security/3.0.3/spring-boot-starter-security-3.0.3-sources.jar
+2023-03-27 10:42:55,773 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.3/spring-boot-starter-security-3.0.3-sources.jar
+2023-03-27 10:42:55,790 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.0.3/spring-boot-starter-security-3.0.3-sources.jar
+2023-03-27 10:42:55,793 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:3.0.3
+2023-03-27 10:42:56,287 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-03-27 10:42:56,929 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:42:56,929 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:42:56,929 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 10:42:56,950 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:42:56,957 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:42:56,957 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:42:56,957 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\ApiGateway\src\test\resources
+2023-03-27 10:42:57,367 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:42:57,367 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:42:57,367 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 10:42:57,380 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:42:57,384 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:42:57,384 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:42:57,384 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\ConfigServer\src\test\resources
+2023-03-27 10:42:57,405 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-config/6.0.2/spring-security-config-6.0.2-sources.jar
+2023-03-27 10:42:57,431 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.2/spring-security-config-6.0.2-sources.jar
+2023-03-27 10:42:57,500 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.0.2/spring-security-config-6.0.2-sources.jar
+2023-03-27 10:42:57,502 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:6.0.2
+2023-03-27 10:42:57,791 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:42:57,791 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:42:57,792 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 10:42:57,801 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:42:57,806 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:42:57,806 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:42:57,806 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\HotelService\src\test\resources
+2023-03-27 10:42:58,104 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 10:42:58,120 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 10:42:58,124 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 10:42:58,663 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 10:42:58,679 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 10:42:58,683 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\ServiceRegistry\src\test\resources
+2023-03-27 10:42:58,740 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:42:58,740 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:42:58,741 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:42:58,741 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 10:42:58,746 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 10:42:58,746 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 10:42:58,746 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 10:42:59,302 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-web/6.0.2/spring-security-web-6.0.2-sources.jar
+2023-03-27 10:42:59,327 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.2/spring-security-web-6.0.2-sources.jar
+2023-03-27 10:42:59,363 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.0.2/spring-security-web-6.0.2-sources.jar
+2023-03-27 10:42:59,365 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:6.0.2
+2023-03-27 10:43:00,964 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/spring/okta-spring-boot-starter/3.0.3/okta-spring-boot-starter-3.0.3-sources.jar
+2023-03-27 10:43:00,994 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-boot-starter/3.0.3/okta-spring-boot-starter-3.0.3-sources.jar
+2023-03-27 10:43:01,012 [Worker-24: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.okta.spring:okta-spring-boot-starter:3.0.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.okta.spring:okta-spring-boot-starter:jar:sources:3.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:608)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:219)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:577)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:562)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:270)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-27 10:43:02,579 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/spring/okta-spring-security-oauth2/3.0.3/okta-spring-security-oauth2-3.0.3-sources.jar
+2023-03-27 10:43:02,607 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-security-oauth2/3.0.3/okta-spring-security-oauth2-3.0.3-sources.jar
+2023-03-27 10:43:02,622 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-security-oauth2/3.0.3/okta-spring-security-oauth2-3.0.3-sources.jar
+2023-03-27 10:43:02,627 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.okta.spring:okta-spring-security-oauth2:3.0.3
+2023-03-27 10:43:04,014 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/commons/okta-config-check/1.3.3/okta-config-check-1.3.3-sources.jar
+2023-03-27 10:43:04,041 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/commons/okta-config-check/1.3.3/okta-config-check-1.3.3-sources.jar
+2023-03-27 10:43:04,055 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/commons/okta-config-check/1.3.3/okta-config-check-1.3.3-sources.jar
+2023-03-27 10:43:04,059 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.okta.commons:okta-config-check:1.3.3
+2023-03-27 10:43:05,548 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/commons/okta-commons-lang/1.3.3/okta-commons-lang-1.3.3-sources.jar
+2023-03-27 10:43:05,577 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/commons/okta-commons-lang/1.3.3/okta-commons-lang-1.3.3-sources.jar
+2023-03-27 10:43:05,589 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/commons/okta-commons-lang/1.3.3/okta-commons-lang-1.3.3-sources.jar
+2023-03-27 10:43:05,592 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.okta.commons:okta-commons-lang:1.3.3
+2023-03-27 10:43:06,982 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-client/6.0.2/spring-security-oauth2-client-6.0.2-sources.jar
+2023-03-27 10:43:07,006 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-client/6.0.2/spring-security-oauth2-client-6.0.2-sources.jar
+2023-03-27 10:43:07,031 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-client/6.0.2/spring-security-oauth2-client-6.0.2-sources.jar
+2023-03-27 10:43:07,036 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-oauth2-client:6.0.2
+2023-03-27 10:43:08,664 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-core/6.0.2/spring-security-oauth2-core-6.0.2-sources.jar
+2023-03-27 10:43:08,688 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.0.2/spring-security-oauth2-core-6.0.2-sources.jar
+2023-03-27 10:43:08,716 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.0.2/spring-security-oauth2-core-6.0.2-sources.jar
+2023-03-27 10:43:08,722 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-oauth2-core:6.0.2
+2023-03-27 10:43:09,908 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/nimbusds/oauth2-oidc-sdk/9.43.1/oauth2-oidc-sdk-9.43.1-sources.jar
+2023-03-27 10:43:09,931 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/nimbusds/oauth2-oidc-sdk/9.43.1/oauth2-oidc-sdk-9.43.1-sources.jar
+2023-03-27 10:43:09,996 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/nimbusds/oauth2-oidc-sdk/9.43.1/oauth2-oidc-sdk-9.43.1-sources.jar
+2023-03-27 10:43:10,000 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.nimbusds:oauth2-oidc-sdk:9.43.1
+2023-03-27 10:43:11,591 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-jose/6.0.2/spring-security-oauth2-jose-6.0.2-sources.jar
+2023-03-27 10:43:11,625 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.0.2/spring-security-oauth2-jose-6.0.2-sources.jar
+2023-03-27 10:43:11,642 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.0.2/spring-security-oauth2-jose-6.0.2-sources.jar
+2023-03-27 10:43:11,644 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-oauth2-jose:6.0.2
+2023-03-27 10:43:13,331 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/nimbusds/nimbus-jose-jwt/9.24.4/nimbus-jose-jwt-9.24.4-sources.jar
+2023-03-27 10:43:13,359 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/nimbusds/nimbus-jose-jwt/9.24.4/nimbus-jose-jwt-9.24.4-sources.jar
+2023-03-27 10:43:13,393 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/nimbusds/nimbus-jose-jwt/9.24.4/nimbus-jose-jwt-9.24.4-sources.jar
+2023-03-27 10:43:13,397 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.nimbusds:nimbus-jose-jwt:9.24.4
+2023-03-27 10:43:15,072 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-oauth2-resource-server/6.0.2/spring-security-oauth2-resource-server-6.0.2-sources.jar
+2023-03-27 10:43:15,099 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.2/spring-security-oauth2-resource-server-6.0.2-sources.jar
+2023-03-27 10:43:15,115 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.2/spring-security-oauth2-resource-server-6.0.2-sources.jar
+2023-03-27 10:43:15,120 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-oauth2-resource-server:6.0.2
+2023-03-27 10:43:16,389 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/spring/okta-spring-sdk/3.0.3/okta-spring-sdk-3.0.3-sources.jar
+2023-03-27 10:43:16,414 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-sdk/3.0.3/okta-spring-sdk-3.0.3-sources.jar
+2023-03-27 10:43:16,428 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-sdk/3.0.3/okta-spring-sdk-3.0.3-sources.jar
+2023-03-27 10:43:16,434 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.okta.spring:okta-spring-sdk:3.0.3
+2023-03-27 10:43:17,615 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-test/6.0.2/spring-security-test-6.0.2-sources.jar
+2023-03-27 10:43:17,641 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.2/spring-security-test-6.0.2-sources.jar
+2023-03-27 10:43:17,659 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.0.2/spring-security-test-6.0.2-sources.jar
+2023-03-27 10:43:17,665 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-test:6.0.2
+2023-03-27 10:43:19,271 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/security/spring-security-core/6.0.2/spring-security-core-6.0.2-sources.jar
+2023-03-27 10:43:19,304 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.2/spring-security-core-6.0.2-sources.jar
+2023-03-27 10:43:19,342 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.0.2/spring-security-core-6.0.2-sources.jar
+2023-03-27 10:43:19,345 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:6.0.2
+2023-03-27 10:43:20,118 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 10:43:20,119 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 10:43:20,125 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 10:46:11,763 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-27 10:46:11,767 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 10:46:11,770 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 10:46:24,455 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-27 10:46:24,613 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pcc.rating:RatingService:0.0.1-SNAPSHOT @ C:\Users\VSING116\Documents\Practice_CC\RatingService\pom.xml.
+2023-03-27 10:46:25,153 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RatingService/src/main/java
+2023-03-27 10:46:25,153 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RatingService/src/main/resources
+2023-03-27 10:46:25,154 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RatingService/src/main/resources
+2023-03-27 10:46:25,154 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RatingService/src/test/java
+2023-03-27 10:46:25,519 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-03-27 10:46:25,851 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 10:46:25,854 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 10:46:25,857 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 10:46:27,486 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/com/okta/spring/okta-spring-boot-starter/3.0.3/okta-spring-boot-starter-3.0.3-javadoc.jar
+2023-03-27 10:46:27,530 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/okta/spring/okta-spring-boot-starter/3.0.3/okta-spring-boot-starter-3.0.3-javadoc.jar
+2023-03-27 10:46:27,532 [Worker-35: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.okta.spring:okta-spring-boot-starter:3.0.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.okta.spring:okta-spring-boot-starter:jar:javadoc:3.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:608)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:219)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:577)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:562)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:270)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-27 10:46:47,725 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-27 10:49:40,774 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 10:49:40,792 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 10:49:40,797 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 10:51:06,308 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 10:51:06,320 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 10:51:06,324 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 10:51:34,441 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 10:51:34,493 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 10:51:34,499 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 11:12:09,515 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 11:12:09,593 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 11:12:09,599 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 11:15:43,892 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 11:15:43,902 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 11:15:43,906 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 11:16:01,357 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 11:16:01,369 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 11:16:01,371 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 11:17:05,612 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 11:17:05,624 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 11:17:05,626 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 11:17:55,493 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pcc.hotel:HotelService:0.0.1-SNAPSHOT @ C:\Users\VSING116\Documents\Practice_CC\HotelService\pom.xml.
+2023-03-27 11:17:56,372 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:17:56,372 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:17:56,372 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:17:56,396 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:17:56,399 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:17:56,400 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:17:56,400 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\HotelService\src\test\resources
+2023-03-27 11:17:56,984 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-27 11:17:57,287 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pcc.hotel:HotelService:0.0.1-SNAPSHOT @ C:\Users\VSING116\Documents\Practice_CC\HotelService\pom.xml.
+2023-03-27 11:17:57,982 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelService/src/main/java
+2023-03-27 11:17:57,982 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelService/src/main/resources
+2023-03-27 11:17:57,982 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelService/src/main/resources
+2023-03-27 11:17:57,983 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelService/src/test/java
+2023-03-27 11:17:58,432 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-03-27 11:17:59,070 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:17:59,070 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:17:59,071 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:17:59,084 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:17:59,088 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:17:59,088 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:17:59,088 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\HotelService\src\test\resources
+2023-03-27 11:18:15,765 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-27 11:18:16,010 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pcc.hotel:HotelService:0.0.1-SNAPSHOT @ C:\Users\VSING116\Documents\Practice_CC\HotelService\pom.xml.
+2023-03-27 11:18:16,675 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelService/src/main/java
+2023-03-27 11:18:16,675 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelService/src/main/resources
+2023-03-27 11:18:16,676 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelService/src/main/resources
+2023-03-27 11:18:16,676 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelService/src/test/java
+2023-03-27 11:18:17,092 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-03-27 11:18:17,498 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:18:17,499 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:18:17,500 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:18:17,513 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:18:17,516 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:18:17,516 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:18:17,517 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\HotelService\src\test\resources
+2023-03-27 11:20:07,860 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:20:07,860 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:20:07,862 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 11:20:07,866 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:20:07,868 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:20:07,868 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:20:07,868 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\HotelService\src\test\resources
+2023-03-27 11:20:24,389 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:20:24,389 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:20:24,390 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:20:24,428 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:20:24,432 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:20:24,432 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:20:24,432 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\HotelService\src\test\resources
+2023-03-27 11:20:38,572 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:20:38,573 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:20:38,575 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:20:38,586 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:20:38,592 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:20:38,592 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:20:38,592 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\HotelService\src\test\resources
+2023-03-27 11:20:53,094 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:20:53,095 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:20:53,095 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:20:53,160 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:20:53,163 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:20:53,163 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:20:53,163 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\HotelService\src\test\resources
+2023-03-27 11:21:09,162 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:21:09,162 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:21:09,163 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:21:09,171 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:21:09,174 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:21:09,175 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:21:09,175 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\HotelService\src\test\resources
+2023-03-27 11:25:35,508 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:25:35,508 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:25:35,509 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:25:35,517 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:25:35,519 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:25:35,519 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:25:35,519 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\HotelService\src\test\resources
+2023-03-27 11:26:26,034 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 11:26:26,044 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 11:26:26,048 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 11:26:54,891 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-27 11:26:54,898 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 11:26:54,900 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\RatingService\src\test\resources
+2023-03-27 11:46:46,620 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:46:46,620 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:46:46,620 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:46:46,628 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:46:46,632 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:46:46,632 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:46:46,632 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 11:47:00,903 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:47:00,903 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:47:00,904 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:47:00,913 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:47:00,917 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:47:00,917 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:47:00,917 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 11:53:37,579 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:53:37,579 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:53:37,580 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:53:37,659 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:53:37,663 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:53:37,663 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:53:37,663 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 11:53:43,512 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:53:43,512 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:53:43,513 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:53:43,522 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:53:43,525 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:53:43,525 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:53:43,525 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 11:54:00,954 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:54:00,954 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:54:00,955 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 11:54:00,961 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 11:54:00,965 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 11:54:00,965 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 11:54:00,965 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 12:00:03,207 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 12:00:03,207 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 12:00:03,208 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 12:00:03,228 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 12:00:03,232 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 12:00:03,232 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 12:00:03,232 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VSING116\Documents\Practice_CC\UserService\src\test\resources
+2023-03-27 12:00:06,840 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 12:00:06,840 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 12:00:06,841 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
